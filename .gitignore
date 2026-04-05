@@ -1,0 +1,7 @@
+build
+frontend/dist
+frontend/node_modules
+frontend/wailsjs
+frontend/components.d.ts
+frontend/package.json.md5
+frontend/package-lock.json
