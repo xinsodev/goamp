@@ -1,0 +1,16 @@
+{
+  "app": {
+    "name": "GOAMP",
+    "loading": "Loading..."
+  },
+  "menu": {
+    "dashboard": "Dashboard"
+  },
+  "locale": {
+    "en": "English",
+    "vi": "Vietnamese"
+  },
+  "footer": {
+    "text": "Made with ❤️ by <site>xinso.dev</site>"
+  }
+}

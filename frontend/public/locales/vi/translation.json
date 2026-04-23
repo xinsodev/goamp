@@ -1,0 +1,16 @@
+{
+  "app": {
+    "name": "GOAMP",
+    "loading": "Đang tải..."
+  },
+  "menu": {
+    "dashboard": "Bảng điều khiển"
+  },
+  "locale": {
+    "en": "Tiếng Anh",
+    "vi": "Tiếng Việt"
+  },
+  "footer": {
+    "text": "Được tạo ra với ❤️ bởi <site>xinso.dev</site>"
+  }
+}
